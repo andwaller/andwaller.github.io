@@ -1,0 +1,17 @@
+title: Ari Waller
+description: Writing about developer relations, community, and building with AI.
+author: Ari Waller
+email: ari.waller@neo4j.com
+url: "https://andwaller.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+  date_format: "%B %-d, %Y"
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
