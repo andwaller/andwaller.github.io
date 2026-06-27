@@ -14,7 +14,7 @@ figcaption { margin-top: 0.6em; font-size: 0.85em; color: #666; font-style: ital
 .step-label { display: inline-flex; align-items: center; justify-content: center; min-width: 26px; height: 26px; background: #0369a1; color: white; border-radius: 50%; font-size: 0.8em; font-weight: 700; flex-shrink: 0; margin-top: 2px; }
 </style>
 
-If you read [Part 1](/2026/06/07/star-wars-lego-open-source-contribution/), you know how this started: I wanted to build a Star Wars LEGO database, my AI agent kept hallucinating schema that didn't exist, and fixing that problem turned into my first open source contribution to `neo4j-contrib/neo4j-skills`.
+If you read [Part 1](/2026/06/07/star-wars-lego-open-source-contribution.html), you know how this started: I wanted to build a Star Wars LEGO database, my AI agent kept hallucinating schema that didn't exist, and fixing that problem turned into my first open source contribution to `neo4j-contrib/neo4j-skills`.
 
 That post told the story. This one shows the work.
 
