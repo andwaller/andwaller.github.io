@@ -6,6 +6,8 @@ categories: [career]
 excerpt: "Has the overuse of the term \"Rock Star\" transformed itself into a cliché where it is possible to rule out a resource that you would possibly want to hire?"
 ---
 
+<figure><img src="/assets/posts/rock-star/rock-star-silhouette.jpg" alt="Rock star silhouette"></figure>
+
 I once had the opportunity to sit at a roundtable discussion with some peers that provide staffing solutions for the Information Technology industry. We were talking about the challenges our industry faces in our search for top tier talent. IT professionals have a low unemployment rate of 2.2%, with an even lower number for some skill sets or locations. Attracting the short supply of strong candidates to read or listen to a job requirement can be a challenge, as there are so many opportunities that look alike. Candidates have shared with us that overused terminology eventually loses its meaning. To stand out and attract candidates, companies need to ensure they don't get caught in a paradigm and take away from the uniqueness of the opportunity. One term that has fallen into this category over the past few years is the desire to hire a "Rock Star" in a particular skill set.
 
 Our industry has heard multiple requests to find "Rock Stars" for their open IT positions in recent years. While a strong IT professional is the desire for most, is the term "Rock Star" the best way to identify the talent being requested? Has the overuse of the term "Rock Star" transformed itself into a cliché where it is possible to rule out a resource that you would possibly want to hire? Is "Rock Star" status the same in every employment environment?
