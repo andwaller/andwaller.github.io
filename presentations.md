@@ -15,6 +15,14 @@ A collection of presentations on IT job market trends, delivered at Atlanta-area
 </style>
 
 <div class="video-block">
+  <h3>Java Career Market Trends for 2023 &amp; Beyond</h3>
+  <p class="meta">Atlanta Java Users Group (AJUG) &mdash; July 2023 &mdash; with Joseph Krull</p>
+  <div class="video-wrapper">
+    <iframe src="https://player.vimeo.com/video/850057285" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="video-block">
   <h3>Current Trends in the PHP Job Market in 2020</h3>
   <p class="meta">2020</p>
   <div class="video-wrapper">
