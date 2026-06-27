@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Java Job Market Trends for 2019"
 date: 2019-07-16
 categories: [presentations, career]
+image: /assets/thumbnails/java-2019-ajug.jpg
 excerpt: "An AJUG presentation on Java hiring trends and what developers could expect from the market in 2019."
 ---
 

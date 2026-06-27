@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Java Career Market Trends for 2023 & Beyond"
 date: 2023-07-16
 categories: [presentations, career]
+image: /assets/thumbnails/java-2023-ajug.jpg
 excerpt: "An AJUG presentation on where the Java job market is heading, co-presented with Joseph Krull."
 ---
 

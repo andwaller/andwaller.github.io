@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Neo4j & Graph-Powered AI"
 date: 2026-04-01
 categories: [presentations, neo4j, ai]
+image: /assets/thumbnails/neo4j-graph-ai.jpg
 excerpt: "Show up, give before you take, stay consistent. A conversation on Neo4j, graph-powered AI, and the Atlanta tech community."
 ---
 

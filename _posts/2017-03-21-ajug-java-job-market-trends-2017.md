@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Current Trends in the Java Job Market in 2017"
 date: 2017-03-21
 categories: [presentations, career]
+image: /assets/thumbnails/java-2017-ajug.jpg
 excerpt: "An AJUG presentation on Java developer hiring trends and what the market looked like in 2017."
 ---
 

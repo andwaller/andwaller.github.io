@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Current Trends in the PHP Job Market in 2018"
 date: 2018-02-01
 categories: [presentations, career]
+image: /assets/thumbnails/php-2018-atlantaphp.jpg
 excerpt: "A look at PHP developer hiring trends and what the market looked like heading into 2018."
 ---
 

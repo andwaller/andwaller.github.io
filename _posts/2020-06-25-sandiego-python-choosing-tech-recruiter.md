@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Choosing a Tech Recruiter Worth Your Time"
 date: 2020-06-25
 categories: [presentations, career]
+image: /assets/thumbnails/tech-recruiter-sandiego.jpg
 excerpt: "What to look for -- and what to avoid -- when working with a technical recruiter."
 ---
 

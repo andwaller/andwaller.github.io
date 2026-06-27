@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Current Trends in the PHP Job Market in 2020"
 date: 2020-01-01
 categories: [presentations, career]
+image: /assets/thumbnails/php-2020.jpg
 excerpt: "A look at where PHP developer hiring was heading in 2020."
 ---
 

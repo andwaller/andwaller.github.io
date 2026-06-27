@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Technical Recruiters: Choosing One That's Worth Your Time"
 date: 2021-06-23
 categories: [presentations, career]
+image: /assets/thumbnails/technical-recruiters-seattle.jpg
 excerpt: "How to find and work with a technical recruiter who will actually advocate for you."
 ---
 
