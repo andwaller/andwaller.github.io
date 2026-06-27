@@ -6,6 +6,10 @@ categories: [career]
 excerpt: "Every job opening is a business problem waiting to be solved. Here's how to prepare to show you're the one to solve it."
 ---
 
+<figure><img src="/assets/posts/problem-solvers/cover.jpg" alt="Two professionals in discussion"></figure>
+
+<figure><img src="/assets/posts/problem-solvers/cover.jpg" alt="Two professionals in discussion"></figure>
+
 How you prepare yourself for a job interview can be the difference between a job offer and a discarded resume. I've seen the results of solid interview preparation with a range of successful IT candidates over the years. Here is some advice based on their experiences:
 
 **Every job opening is a business problem waiting to be solved.** Did you ever think about why jobs are open in the first place? Understanding why an HR department goes through the time and steps necessary to find a new employee offers some important insights. Behind every job opening there is obviously a business problem, and it requires a qualified person to solve it. Whether you are applying for the role of janitor, teacher, programmer, financial analyst or CTO, the one common trait these positions share is that the company is looking to hire someone who can help solve a problem. Once you realize the job interview is an opportunity to communicate how you can solve their business problem, you can tailor your responses to questions appropriately.
