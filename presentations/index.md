@@ -18,10 +18,10 @@ Atlanta Java Users Group (AJUG), July 2023
 2020
 
 **[Technical Recruiters: Choosing One That's Worth Your Time](/2021/06/23/devops-meetup-technical-recruiters.html)**
-DevOpsMeetup, June 2021
+Seattle DevOps Meetup, June 2021
 
-**[Choosing a Tech Recruiter Worth Your Time](/2021/01/01/choosing-a-tech-recruiter-worth-your-time.html)**
-Ari Waller YouTube channel, 2021
+**[Choosing a Tech Recruiter Worth Your Time](/2020/06/25/sandiego-python-choosing-tech-recruiter.html)**
+San Diego Python Meetup, June 2020
 
 **[Java Job Market Trends for 2019](/2019/07/16/ajug-java-job-market-trends-2019.html)**
 Atlanta Java Users Group (AJUG), July 2019

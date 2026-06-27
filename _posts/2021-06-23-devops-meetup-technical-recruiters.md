@@ -15,4 +15,4 @@ excerpt: "How to find and work with a technical recruiter who will actually advo
   <iframe src="https://www.youtube.com/embed/p2cmet5-SOA" allowfullscreen></iframe>
 </div>
 
-*Presented at DevOpsMeetup, June 23, 2021.*
+*Presented at Seattle DevOps Meetup, June 23, 2021.*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choosing a Tech Recruiter Worth Your Time"
-date: 2021-01-01
+date: 2020-06-25
 categories: [presentations, career]
 excerpt: "What to look for -- and what to avoid -- when working with a technical recruiter."
 ---
@@ -14,3 +14,5 @@ excerpt: "What to look for -- and what to avoid -- when working with a technical
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/rcmCht-MN2I" allowfullscreen></iframe>
 </div>
+
+*Presented at San Diego Python virtual meetup, June 25, 2020.*
