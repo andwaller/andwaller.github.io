@@ -29,6 +29,8 @@ On March 25, 2013, I ran a search for "Rock Star" as a job seeker on three major
 
 Is advertising for a "Rock Star" likely to give you the IT employee you ultimately want to hire?
 
+<figure><img src="/assets/posts/rock-star/rock-star-guitar.jpg" alt="Rock star guitarist"></figure>
+
 ## Are "Rock Stars" the team players you desire?
 
 I cannot say I have ever put my life on hold to travel with a band. In fact, I have only been to a handful of rock concerts in my life. When I do go, I am always amazed at how 20,000 fans respond to every move the "Rock Star" makes. When Bono points, the crowd goes crazy! When Bono lifts the lady on the stage, the screams of jealousy, combined with the excitement, are even louder! "Rock Stars" usually possess some form of exhibitionist-like behavior, where their amazing talent calls attention to them.
