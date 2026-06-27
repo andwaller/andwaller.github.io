@@ -12,9 +12,6 @@ minima:
 
 show_excerpts: true
 
-header_pages:
-  - presentations.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
